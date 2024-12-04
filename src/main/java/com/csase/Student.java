@@ -14,8 +14,8 @@ public class Student {
      * Sets study planner and scanner
      */
     public Student {
-        planner = new StudyPlanner();
-        scanner = new Scanner(System.in);
+        StudyPlanner = new StudyPlanner();
+        Scanner = new Scanner(System.in);
     }
     
     /*
